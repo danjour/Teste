@@ -31,7 +31,7 @@
 
 
 
-### Built With
+### Built With:
 
 * Jupyter Notebook
 
@@ -47,7 +47,8 @@
 [outlook-url]: https://www.facebook.com/eduardo.danjour/
 
 
-### About Me
-BLÁ BLA BLA BLA BLA BLA BLA BLA BALB ALB ABL ABLA BLA BLA SASLDSALMASCSACS ASDFAS FSAFSAFSA
+### About Me:
+
+Nada para falar ;-;
 
 >You have nothing to lose but your chains.
